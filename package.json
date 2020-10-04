@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ojisan-toybox/typed-firestore#readme",
   "dependencies": {
+    "firebase": "^7.22.0",
     "next": "^9.5.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
